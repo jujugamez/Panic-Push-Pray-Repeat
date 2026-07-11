@@ -1,4 +1,7 @@
 # GitHub: Panic, Push, Pray, Repeat
+<img width="1672" height="941" alt="ChatGPT Image Jul 10, 2026, 05_44_19 PM" src="https://github.com/user-attachments/assets/e6c33ee7-dbf1-4eb7-8619-e45302b5dc2b" />
+<br>
+<br>
 
 Every developer knows that strange moment right before pushing code. The feature seems finished, the bug looks fixed, and the project finally feels ready. Then doubt arrives. What if something breaks? What if the update works locally but fails online? What if one tiny mistake turns into a full debugging session?
 
